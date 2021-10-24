@@ -1,2 +1,2 @@
 # cnstruimos
-Construimos e um projeto enganjado a leva informaçao pra aria 
+Cnwstruimos e um projeto enganjado a leva informaçao pra aria da construçao civil. 
