@@ -1,2 +1,2 @@
 # cnstruimos
-Cnwstruimos e um projeto enganjado a leva informaçao pra aria da construçao civil. 
+Cnstruimos e um projeto enganjado a leva informaçao pra aria da construçao civil. 
